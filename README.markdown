@@ -3,7 +3,7 @@ I have always wanted a simple way of managing my bash file settings (`.bashrc`, 
 
 This repository is a reboot of the [original Dot_Files](https://github.com/goozbach/dot_files) repository. Created to simplify the delivery and manageability for multiple systems.
 
-There will be multiple branches, one for each system's default files. The ["Master"](tree/master) branch will house just the `README.markdown` and `makefile`. To get a copy of the default files provied from a certian platform check out each platform's individual branch. ([RHEL6](tree/rhel6) for example.)
+There will be multiple branches, one for each system's default files. The ["Master"](Dot_Files_Reboot/tree/master) branch will house just the `README.markdown` and `makefile`. To get a copy of the default files provied from a certian platform check out each platform's individual branch. ([RHEL6](Dot_Files_Reboot/tree/rhel6) for example.)
 
 In the future, the old repository will be sanitized and added as an additional branch called "goozbach_custom"
 
